@@ -1,1 +1,1 @@
-# Lite.PHP
+# lite-php
